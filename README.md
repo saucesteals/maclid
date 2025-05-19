@@ -1,5 +1,5 @@
 # maclid
-- Display controls and lid sync for Macbook Lid on Linux
+- Display controls and lid sync for Macbooks on Linux
 - No additional drivers required 
 
 ## Prerequisites
